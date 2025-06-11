@@ -1,5 +1,2 @@
 Trabajo_Practico 
-SUMA
-RESTA
-DIVISION
-MULTIPLICACION
+
