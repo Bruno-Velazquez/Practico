@@ -25,6 +25,6 @@ Como administrador del sistema, quiero consultar los registros de asistencia por
 4. Editar/eliminar registros
 Como administrador del sistema, quiero editar o eliminar los datos de una persona o registros de asistencia, para corregir errores o actualizar la información cuando sea necesario.
 
-Alta de usuario: link ChatGPT https://chatgpt.com/share/684a1486-e03c-8012-939d-fc69985bbda8
+Alta de usuario (Eric): link ChatGPT https://chatgpt.com/share/684a1486-e03c-8012-939d-fc69985bbda8
 
 Asistencia por Persona (Bruno) https://chatgpt.com/share/684a152f-dedc-8013-9ee6-aba55c5fe79d
