@@ -1,3 +1,11 @@
+Este sistema se especifica para gestionar un sistema de asistencia
+Eric Velázquez
+Daniel Olivia
+Alan Varela
+Bruno Velázquez
+
+
+
 TP ASISTENCIA
 
 1. Registrar personas (alta de usuarios)
