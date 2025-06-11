@@ -52,3 +52,13 @@ def registrar_usuario():
 # Ejecutar la app
 if __name__ == '__main__':
     app.run(debug=True)
+
+    POST /usuarios
+Content-Type: application/json
+
+{
+  "nombre_completo": "Juan Pérez",
+  "dni": "12345678",
+  "email": "juan.perez@example.com",
+  "rol": "Alumno"
+}
