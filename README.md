@@ -2,8 +2,11 @@ Este sistema se especifica para gestionar un sistema de asistencia
 
 
 Eric Velázquez
+
 Daniel Olivia
+
 Alan Varela
+
 Bruno Velázquez
 
 
