@@ -30,3 +30,5 @@ Alta de usuario (Eric): link ChatGPT https://chatgpt.com/share/684a1486-e03c-801
 Asistencia por Persona (Bruno) https://chatgpt.com/share/684a152f-dedc-8013-9ee6-aba55c5fe79d
 
 Editar/Eliminar Registro: https://gemini.google.com/u/1/app/0d078d39dea68b0e?utm_source=HPP-ms&utm_medium=Owned&utm_campaign=i18n-adv-may&hl=es_419
+
+Marcar asistencia: https://chatgpt.com/share/684a1509-f170-8008-97c7-5e8d94af7820
